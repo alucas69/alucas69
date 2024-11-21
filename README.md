@@ -1,4 +1,4 @@
-## Andre Lucas, Vrije Universiteit Amsterdam
+## André Lucas, Vrije Universiteit Amsterdam
 
 # Professor of Financial Econometrics
 
